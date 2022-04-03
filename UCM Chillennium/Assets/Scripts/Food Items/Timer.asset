@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 541049650718535469c21f80446c4c87, type: 3}
+  m_Name: Timer
+  m_EditorClassIdentifier: 
+  itemName: 
+  description: Oh man that really bought you some time
+  sprite: {fileID: -3568434940922774095, guid: c1235361f6d8ba54ebd4323f4858714f, type: 3}
+  comboItem: {fileID: 0}
+  TimeAdded: 5
+  Score: 5

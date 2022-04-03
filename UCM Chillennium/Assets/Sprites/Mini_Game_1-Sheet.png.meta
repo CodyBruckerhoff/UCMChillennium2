@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: b301f501cf5b8204884a693df32e95ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4370491846751253783
+    second: MiniGame1 Background
+  - first:
+      213: 7035822252758359098
+    second: Bars
+  - first:
+      213: 5748307315744634065
+    second: CampFire
+  - first:
+      213: -4061455316192104165
+    second: Timer
+  - first:
+      213: -5987112635646979344
+    second: Progress Bar
+  - first:
+      213: 6882334674554219786
+    second: Selection
+  - first:
+      213: -930423285870781387
+    second: Cover
+  - first:
+      213: -1066049970231479775
+    second: Fire1
+  - first:
+      213: 2557359244911032983
+    second: Ball
+  - first:
+      213: 7933052063387534306
+    second: DialShadow
+  - first:
+      213: 6970592337907466954
+    second: Fire2
+  - first:
+      213: 7268062438854263444
+    second: Dial
+  - first:
+      213: 8302210485639784404
+    second: Mini_Game_1-Sheet_12
+  - first:
+      213: -4816168606058074048
+    second: Mini_Game_1-Sheet_13
+  - first:
+      213: -271157239057476378
+    second: Fire3
+  - first:
+      213: 1174810735143517849
+    second: Mini_Game_1-Sheet_15
+  - first:
+      213: 4321973721379967103
+    second: Fire4
+  - first:
+      213: -354348019546707807
+    second: Mini_Game_1-Sheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniGame1 Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1437
+        width: 722
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea86ac32d4e853c0800000000000000
+      internalID: -4370491846751253783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1462
+        width: 224
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c537ebf0344a160800000000000000
+      internalID: 7035822252758359098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1838
+        width: 164
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b117f3f88efc2a7c0800000000000000
+      internalID: -4061455316192104165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress Bar
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 1535
+        width: 79
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2520a67c089eca0800000000000000
+      internalID: -5987112635646979344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selection
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 1687
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d682e1ce6f28f50800000000000000
+      internalID: 6882334674554219786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire1
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1556
+        width: 233
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12279834331a431f0800000000000000
+      internalID: -1066049970231479775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1608
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abbfb0fa09d7320800000000000000
+      internalID: 2557359244911032983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialShadow
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1462
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.74121, y: 18.75}
+        - {x: 27.727783, y: 2.9024658}
+        - {x: 22.448242, y: 2.925537}
+        - {x: 22.495361, y: -2.4312744}
+        - {x: 17.158203, y: -2.4033203}
+        - {x: 17.162354, y: -5.8529053}
+        - {x: 15.455811, y: -5.8409424}
+        - {x: 11.89917, y: -5.8358154}
+        - {x: 11.886963, y: -11.0859375}
+        - {x: -14.433838, y: -11.0802}
+        - {x: -14.407959, y: -7.5981445}
+        - {x: -17.97461, y: -7.6207275}
+        - {x: -17.965088, y: -5.883789}
+        - {x: -19.605713, y: -5.856079}
+        - {x: -19.59961, y: -2.3636475}
+        - {x: -23.134277, y: -2.369751}
+        - {x: -23.137451, y: -0.6060791}
+        - {x: -24.98413, y: -0.6275635}
+        - {x: -24.97754, y: 2.9752197}
+        - {x: -28.442139, y: 2.9665527}
+        - {x: -28.516846, y: 18.79309}
+        - {x: -33.5, y: 18.819946}
+        - {x: -33.5, y: -0.5776367}
+        - {x: -28.578613, y: -0.572876}
+        - {x: -28.532227, y: -5.8378906}
+        - {x: -23.246582, y: -5.8131104}
+        - {x: -23.216797, y: -11.165527}
+        - {x: -17.950684, y: -11.157227}
+        - {x: -17.995361, y: -16.380127}
+        - {x: 17.270752, y: -16.490967}
+        - {x: 17.257812, y: -11.172119}
+        - {x: 20.720947, y: -11.179321}
+        - {x: 20.753174, y: -5.7994385}
+        - {x: 26.03711, y: -5.869507}
+        - {x: 26.051025, y: -0.5722656}
+        - {x: 31.275635, y: -0.6203613}
+        - {x: 31.379883, y: 18.74707}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c4ee02dcd71e60800000000000000
+      internalID: 7933052063387534306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire2
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1076
+        width: 233
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c80facc48cb060800000000000000
+      internalID: 6970592337907466954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 596
+        width: 233
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e414bf7de7ac3cf0800000000000000
+      internalID: -271157239057476378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire4
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 116
+        width: 233
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701d67633cbafb30800000000000000
+      internalID: 4321973721379967103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampFire
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1465
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fcbe3c0716cf40800000000000000
+      internalID: 5748307315744634065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1462
+        width: 224
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9bea73f87613f0800000000000000
+      internalID: -930423285870781387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dial
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1470
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 28}
+        - {x: -13.5, y: 23}
+        - {x: -17.5, y: 23}
+        - {x: -17.5, y: 18}
+        - {x: -22.5, y: 18}
+        - {x: -22.5, y: 12}
+        - {x: -27.5, y: 12}
+        - {x: -27.5, y: -14}
+        - {x: -23.5, y: -14}
+        - {x: -23.5, y: -18}
+        - {x: -22.5, y: -18}
+        - {x: -22.5, y: -20}
+        - {x: -18.5, y: -20}
+        - {x: -18.5, y: -23}
+        - {x: -17.5, y: -23}
+        - {x: -17.5, y: -25}
+        - {x: -13.5, y: -25}
+        - {x: -13.5, y: -28}
+        - {x: 13.5, y: -28}
+        - {x: 13.5, y: -23}
+        - {x: 18.5, y: -23}
+        - {x: 18.5, y: -18}
+        - {x: 23.5, y: -18}
+        - {x: 23.5, y: -14}
+        - {x: 27.5, y: -14}
+        - {x: 27.5, y: 13}
+        - {x: 23.5, y: 13}
+        - {x: 23.5, y: 18}
+        - {x: 18.5, y: 18}
+        - {x: 18.5, y: 23}
+        - {x: 13.5, y: 23}
+        - {x: 13.5, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928441c7485dd460800000000000000
+      internalID: 7268062438854263444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

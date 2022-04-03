@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - TimerText
+  - Ground
+  - spoon
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Events
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 897023583
+    locked: 0
+  - name: Foreground
+    uniqueID: 2795802729
+    locked: 0
+  - name: ShelfItems
+    uniqueID: 762707177
+    locked: 0
+  - name: Items
+    uniqueID: 4039806905
+    locked: 0
+  - name: Player
+    uniqueID: 1270833303
+    locked: 0
