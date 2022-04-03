@@ -9,5 +9,7 @@ public class StartButton : MonoBehaviour
     {
         SceneManager.LoadScene(1, LoadSceneMode.Single);
         scoreCalculation.totalscore = 0;
+        HeatTheOven.areaProgress = 0;
+        TimeCheck.iteration = 0;
     }
 }
