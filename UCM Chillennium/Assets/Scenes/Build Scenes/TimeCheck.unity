@@ -466,6 +466,7 @@ MonoBehaviour:
   - {fileID: 1394880664}
   - {fileID: 50724913}
   - {fileID: 394338234}
+  theme: {fileID: 2003067062}
 --- !u!114 &286507664
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1353,7 +1354,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -633.05, y: 257.2}
+  m_AnchoredPosition: {x: -633.05, y: 282.8}
   m_SizeDelta: {x: 653.9, y: 514.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1427663424
@@ -1390,7 +1391,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 7c46ae626244aff4185c70c1727fde87, type: 3}
+    m_Font: {fileID: 12800000, guid: 9fa3a3503b09e2b42b4002e9e5ce021e, type: 3}
     m_FontSize: 125
     m_FontStyle: 0
     m_BestFit: 0
@@ -1402,7 +1403,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Time the ball perfectly with the left mouse button
+  m_Text: Click at the perfect time!
 --- !u!222 &1427663426
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1633,6 +1634,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2639a4ee056e20e4ba972edeb679c415, type: 3}
+--- !u!82 &2003067062 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5512427447421390782, guid: 2639a4ee056e20e4ba972edeb679c415, type: 3}
+  m_PrefabInstance: {fileID: 2003067061}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2041561561
 GameObject:
   m_ObjectHideFlags: 0

@@ -19,7 +19,7 @@ public class Score : MonoBehaviour
             scoreCalculation.totalscore += 2;
             potScore += 2;
             addScore = false;
-            speedup += .03f;
+            speedup += .035f;
 
             //Play sound on score
             randomSound.clip = audioSources[Random.Range(0, audioSources.Length)];

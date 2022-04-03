@@ -195,7 +195,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 7c46ae626244aff4185c70c1727fde87, type: 3}
+    m_Font: {fileID: 12800000, guid: 9fa3a3503b09e2b42b4002e9e5ce021e, type: 3}
     m_FontSize: 138
     m_FontStyle: 0
     m_BestFit: 0
@@ -207,7 +207,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Use the mouse to stir the pot!
+  m_Text: Use the mouse to stir!
 --- !u!222 &81167001
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -554,6 +554,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5421883269336671360, guid: 89f05d0cd3f3b99479ae6fdfed878296, type: 3}
+      propertyPath: theme
+      value: 
+      objectReference: {fileID: 1357156878}
     - target: {fileID: 5421883269336671360, guid: 89f05d0cd3f3b99479ae6fdfed878296, type: 3}
       propertyPath: sceneName
       value: TimeCheck
@@ -1147,6 +1151,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1357156878 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8179167778957039600, guid: fff3132ac7c307547b3e2f58b9e7de55, type: 3}
+  m_PrefabInstance: {fileID: 8179167780709520944}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1358551149
 GameObject:
   m_ObjectHideFlags: 0

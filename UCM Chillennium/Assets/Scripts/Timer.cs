@@ -12,6 +12,7 @@ public class Timer : MonoBehaviour
     public static Timer instance;
     [SerializeField] private scoreCalculation scoreCalculation;
     private bool callOnce = true;
+    public AudioSource theme;
 
     [SerializeField] private string sceneName;
 
@@ -37,12 +38,20 @@ public class Timer : MonoBehaviour
     {
 
         timerText = GameObject.FindGameObjectWithTag("TimerText").GetComponent<Text>();
-        if (timeRemaining > 0)
+        if (timeRemaining > 3)
         {
             timeRemaining -= Time.deltaTime;
             float minutes = Mathf.FloorToInt(timeRemaining / 60);
             float seconds = Mathf.FloorToInt(timeRemaining % 60);
             timerText.text = string.Format("{00}", seconds);
+        }
+        else if(timeRemaining > 0)
+        {
+            timeRemaining -= Time.deltaTime;
+            float minutes = Mathf.FloorToInt(timeRemaining / 60);
+            float seconds = Mathf.FloorToInt(timeRemaining % 60);
+            timerText.text = string.Format("{00}", seconds);
+            theme.volume -= .001f;
         }
         else if (timeRemaining <= 0 && callOnce)
         {

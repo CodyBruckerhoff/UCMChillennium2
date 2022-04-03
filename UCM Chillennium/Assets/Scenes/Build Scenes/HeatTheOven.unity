@@ -774,8 +774,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 348.06, y: -456.35}
-  m_SizeDelta: {x: 1223.9, y: 167.31}
+  m_AnchoredPosition: {x: 348.06, y: -438.66}
+  m_SizeDelta: {x: 1223.9, y: 202.69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &663457733
 MonoBehaviour:
@@ -798,7 +798,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 7c46ae626244aff4185c70c1727fde87, type: 3}
+    m_Font: {fileID: 12800000, guid: 9fa3a3503b09e2b42b4002e9e5ce021e, type: 3}
     m_FontSize: 95
     m_FontStyle: 0
     m_BestFit: 0
@@ -810,7 +810,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: With the Left Mouse Button Keep the Ball inthe green to heat the pot!
+  m_Text: Stay in the sweet spot! (Left mouse button)
 --- !u!222 &663457734
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1174,6 +1174,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5421883269336671360, guid: 89f05d0cd3f3b99479ae6fdfed878296, type: 3}
+      propertyPath: theme
+      value: 
+      objectReference: {fileID: 4356321188338107088}
     - target: {fileID: 5421883269336671360, guid: 89f05d0cd3f3b99479ae6fdfed878296, type: 3}
       propertyPath: sceneName
       value: StirThePot
@@ -2351,6 +2355,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86d840c4a497fdf4497c349845673790, type: 3}
+--- !u!82 &4356321188338107088 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 4356321188754479509, guid: 86d840c4a497fdf4497c349845673790, type: 3}
+  m_PrefabInstance: {fileID: 4356321188338107087}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7452208446091924929
 PrefabInstance:
   m_ObjectHideFlags: 0
